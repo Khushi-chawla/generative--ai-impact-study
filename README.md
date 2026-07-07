@@ -61,7 +61,7 @@ This research project investigates the impact of Generative Artificial Intellige
 - Academic Writing
 - Critical Thinking
 
-## 📁 Repository Contents
+##  Repository Contents
 
 - Research Paper
 - Questionnaire
